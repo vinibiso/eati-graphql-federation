@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "inStock": false
+  },
+  {
+    "id": "3",
+    "inStock": true
+  }
+]
